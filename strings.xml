@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cash In</string>
+    <string name="cashin">Cash In</string>
+    <string name="linkacc">Link Account</string>
+    <string name="gcash">GCash</string>
+    <string name="maya">Maya</string>
+    <string name="pay">Pay Pal</string>
+    <string name="accnum">Account Number</string>
+    <string name="num">Number</string>
+    <string name="amount">Amount</string>
+    <string name="total">Total</string>
+    <string name="btncash">Cash In</string>
+
+
+</resources>
